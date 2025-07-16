@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=vitorgamarano1@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   &nbsp;
-  <a href="https://t.me/VitorGDev" target="_blank">
+  <a href="https://t.me/Vitor_S_G_C" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=VitorGDev&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
