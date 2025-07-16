@@ -3,12 +3,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   &nbsp;
-  <a href="vitorgamarano1@gmail.com" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=vitorgamarano1@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   &nbsp;
-  <a href="https://t.me/Vitor_S_G_C" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=VitorGDev&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Vitor_S_G_C&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
 
