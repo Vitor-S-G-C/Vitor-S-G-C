@@ -76,15 +76,6 @@
 
 ---
 
-## ✨ Curiosidades
-
-- 🧠 Gosto de estudar IA, Data Science e desenvolvimento de sistemas
-- 🕹️ Nas horas vagas, curto RPG e jogos tranquilos
-- 🧑‍🍳 Tenho interesse em culinária e jardinagem
-- 🏋️ Treino há mais de 6 anos e adoro desafios
-
----
-
 <p align="center">
   Obrigado por visitar meu perfil! 🚀  
   Se curtiu algum projeto, não esquece de deixar uma ⭐
