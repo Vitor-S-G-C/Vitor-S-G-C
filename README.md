@@ -12,7 +12,7 @@
 ## 🧠 Sobre mim
 
 - 📚 Estudante de **Engenharia de Software (6º Período)**  
-- ⚙️ Interesses: **WEB3**, **BlockChain** e **FrontEnd**  
+- ⚙️ Interesses: **WEB3** e **BlockChain**
 - 🧰 Experiência com desenvolvimento de aplicações usando **Python**, **Java** e **JavaScript/TypeScript**  
 - 🚀 Sempre buscando evoluir e aprender coisas novas  
 - 🎯 Objetivo: atuar em projetos que unam tecnologia e impacto real
