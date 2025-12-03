@@ -1,7 +1,4 @@
-<!-- Banner ou saudação -->
-<h1 align="center">👋 Olá, eu sou o Vitor Gamarano</h1>
 <h3 align="center">Desenvolvedor de Software | Entusiasta de IA e Tecnologia</h3>
-
 <p align="center">
   Sou estudante de Engenharia de Software e desenvolvedor com foco em soluções práticas e criativas.  
   Tenho paixão por aprender novas tecnologias, construir projetos e explorar áreas como <strong>Desenvolvimento Web</strong>, <strong>IA</strong> e <strong>automação</strong>.
@@ -9,17 +6,17 @@
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
-- 📚 Estudante de **Engenharia de Software (6º Período)**  
-- ⚙️ Interesses: **WEB3** e **BlockChain**
-- 🧰 Experiência com desenvolvimento de aplicações usando **Python**, **Java** e **JavaScript/TypeScript**  
-- 🚀 Sempre buscando evoluir e aprender coisas novas  
-- 🎯 Objetivo: atuar em projetos que unam tecnologia e impacto real
+-  Estudante de **Engenharia de Software (6º Período)**  
+-  Interesses: **WEB3** e **BlockChain**
+-  Experiência com desenvolvimento de aplicações usando **Python**, **Java** e **JavaScript/TypeScript**  
+-  Sempre buscando evoluir e aprender coisas novas  
+-  Objetivo: atuar em projetos que unam tecnologia e impacto real
 
 ---
 
-## 🛠️ Linguagens & Ferramentas
+##  Linguagens & Ferramentas
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo" />
@@ -51,7 +48,7 @@
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center" padding="1rem">
   <img src="https://github-readme-stats.vercel.app/api?username=Vitor-S-G-C&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="250" alt="stats graph" />
@@ -60,7 +57,7 @@
 
 ---
 
-## 🌐 Onde me encontrar
+##  Onde me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-gamarano" target="_blank">
@@ -73,10 +70,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="30" alt="telegram logo" />
   </a>
 </div>
-
----
-
-<p align="center">
-  Obrigado por visitar meu perfil! 🚀  
-  Se curtiu algum projeto, não esquece de deixar uma ⭐
-</p>
