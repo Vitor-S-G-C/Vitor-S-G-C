@@ -8,8 +8,7 @@
 
 ##  Sobre mim
 
--  Estudante de **Engenharia de Software (6º Período)**  
--  Interesses: **WEB3** e **BlockChain**
+-  Estudante de **Engenharia de Software (6º Período)** 
 -  Experiência com desenvolvimento de aplicações usando **ASP.net**, **React** e **JavaScript/TypeScript**  
 -  Sempre buscando evoluir e aprender coisas novas
 
