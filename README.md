@@ -8,9 +8,9 @@
 
 ##  Sobre mim
 
--  Estudante de **Engenharia de Software (6º Período)** 
--  Experiência com desenvolvimento de aplicações usando **ASP.net**, **React** e **JavaScript/TypeScript**  
--  Sempre buscando evoluir e aprender coisas novas
+-  Estudante de **Engenharia de Software.
+-  Experiência com desenvolvimento de aplicações usando **ASP.net**, **React** e **JavaScript/TypeScript**. 
+-  Sempre buscando evoluir e aprender mais. 
 
 ---
 
