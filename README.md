@@ -8,7 +8,7 @@
 
 ##  Sobre mim
 
--  Estudante de **Engenharia de Software.
+-  Estudante de Engenharia de Software.
 -  Experiência com desenvolvimento de aplicações usando **ASP.net**, **React** e **JavaScript/TypeScript**. 
 -  Sempre buscando evoluir e aprender mais. 
 
