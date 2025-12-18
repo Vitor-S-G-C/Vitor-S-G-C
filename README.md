@@ -1,4 +1,4 @@
-<h3 align="center">Desenvolvedor de Software | Entusiasta de IA e Tecnologia</h3>
+<h3 align="center">Engenheiro de Software </h3>
 <p align="center">
   Sou estudante de Engenharia de Software e desenvolvedor com foco em soluções práticas e criativas.  
   Tenho paixão por aprender novas tecnologias, construir projetos e explorar áreas como <strong>Desenvolvimento Web</strong>, <strong>IA</strong> e <strong>automação</strong>.
