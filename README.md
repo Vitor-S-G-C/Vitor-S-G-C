@@ -25,8 +25,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
-  <img width="10" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo" />
