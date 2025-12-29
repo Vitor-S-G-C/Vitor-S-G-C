@@ -1,23 +1,12 @@
 <h3 align="center">Engenheiro de Software</h3>
+##  Sobre mim
 
-<p align="center">
-  Sou estudante de Engenharia de Software e desenvolvedor com foco em back-end, atuando principalmente com 
-  <strong>C#</strong> e <strong>ASP.NET Core</strong>.  
-  Tenho interesse em construir soluções bem estruturadas, manter sistemas legados e evoluir aplicações reais de produção.
-</p>
-
+-  Estudante de Engenharia de Software.
+-  Experiência com desenvolvimento e manutenção de sistemas utilizando **ASP.NET Core** e **SQL Server**.
+-  Atuação em evolução de software legado e implementação de novas funcionalidades.
 ---
 
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante de Engenharia de Software.
-- 💼 Experiência com desenvolvimento e manutenção de sistemas utilizando **ASP.NET Core**, **C#** e **SQL Server**.
-- 🔁 Atuação em evolução de software legado e implementação de novas funcionalidades.
-- 📚 Sempre buscando evoluir tecnicamente e aprender novas tecnologias de forma sólida.
-
----
-
-## 🛠️ Linguagens & Ferramentas
+##  Linguagens & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo" />
@@ -37,7 +26,7 @@
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center" padding="1rem">
   <img src="https://github-readme-stats.vercel.app/api?username=Vitor-S-G-C&hide_title=true&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br" height="250" />
@@ -46,7 +35,7 @@
 
 ---
 
-## 🌐 Onde me encontrar
+##  Onde me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-gamarano" target="_blank">
