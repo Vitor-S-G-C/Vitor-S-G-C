@@ -17,6 +17,16 @@
 ##  Linguagens & Ferramentas
 
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dotnet logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="sqlserver logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo" />
@@ -25,24 +35,11 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="35" alt="vuejs logo" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dot-net logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="35" alt="docker logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-</div>
+ 
+
+
+ 
 
 ---
 
