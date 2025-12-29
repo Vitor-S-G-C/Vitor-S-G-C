@@ -1,9 +1,11 @@
-<h3 align="center">Engenheiro de Software</h3>
-##  Sobre mim
+<h3 align="center">Engenheiro de Software | Desenvolvedor Back-end .NET</h3>
 
--  Estudante de Engenharia de Software.
--  Experiência com desenvolvimento e manutenção de sistemas utilizando **ASP.NET Core** e **SQL Server**.
--  Atuação em evolução de software legado e implementação de novas funcionalidades.
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software.
+- 💼 Experiência com desenvolvimento e manutenção de sistemas utilizando **ASP.NET Core**, **C#** e **SQL Server**.
+- 🔁 Atuação na evolução de software legado e implementação de novas funcionalidades em ambientes de produção.
+
 ---
 
 ##  Linguagens & Ferramentas
