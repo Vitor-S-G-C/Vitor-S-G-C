@@ -1,23 +1,26 @@
-<h3 align="center">Engenheiro de Software </h3>
+<h3 align="center">Engenheiro de Software</h3>
+
 <p align="center">
-  Sou estudante de Engenharia de Software e desenvolvedor com foco em soluções práticas e criativas.  
-  Tenho paixão por aprender novas tecnologias, construir projetos e explorar áreas como <strong>Desenvolvimento Web</strong>, <strong>IA</strong> e <strong>automação</strong>.
+  Sou estudante de Engenharia de Software e desenvolvedor com foco em back-end, atuando principalmente com 
+  <strong>C#</strong> e <strong>ASP.NET Core</strong>.  
+  Tenho interesse em construir soluções bem estruturadas, manter sistemas legados e evoluir aplicações reais de produção.
 </p>
 
 ---
 
-##  Sobre mim
+## 👨‍💻 Sobre mim
 
--  Estudante de Engenharia de Software.
--  Experiência com desenvolvimento de aplicações usando **ASP.net**, **React** e **JavaScript/TypeScript**. 
--  Sempre buscando evoluir e aprender mais. 
+- 🎓 Estudante de Engenharia de Software.
+- 💼 Experiência com desenvolvimento e manutenção de sistemas utilizando **ASP.NET Core**, **C#** e **SQL Server**.
+- 🔁 Atuação em evolução de software legado e implementação de novas funcionalidades.
+- 📚 Sempre buscando evoluir tecnicamente e aprender novas tecnologias de forma sólida.
 
 ---
 
-##  Linguagens & Ferramentas
+## 🛠️ Linguagens & Ferramentas
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dotnet logo" />
   <img width="10" />
@@ -30,36 +33,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
- 
-
-
- 
-
----
-
-##  Estatísticas
-
-<div align="center" padding="1rem">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitor-S-G-C&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="250" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitor-S-G-C&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dark&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
 
 ---
 
-##  Onde me encontrar
+## 📊 Estatísticas
+
+<div align="center" padding="1rem">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitor-S-G-C&hide_title=true&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitor-S-G-C&layout=compact&theme=dark&locale=pt-br" height="200" />
+</div>
+
+---
+
+## 🌐 Onde me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-gamarano" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="mailto:vitorgamarano1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="https://t.me/vitor_S_G_C" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="30" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="30" />
   </a>
 </div>
