@@ -3,7 +3,7 @@
 ##  Sobre mim
 
 -  Estudante de Engenharia de Software.
--  Experiência com desenvolvimento e manutenção de sistemas utilizando **ASP.NET Core**, **C#** e **SQL Server**.
+-  Experiência com desenvolvimento e manutenção de sistemas utilizando **ASP.NET**, **C#** e **SQL Server**.
 -  Atuação na evolução de software legado e implementação de novas funcionalidades em ambientes de produção.
 
 ---
